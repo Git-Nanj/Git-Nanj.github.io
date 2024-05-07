@@ -1,0 +1,36 @@
+Html Tags used:
+    <div>
+    <h1>
+    <p>
+    <strong>
+    <h2>
+    <table>
+    <thead>
+    <tr>
+    <th>
+    <tbody>
+    <td>
+    <img>
+    <q>
+    <a>
+    <ul>
+    <li>
+    CSS Properties
+    width:
+    height:
+    margin:
+    background-color:
+    padding:
+    border:
+    display:
+    margin-left:
+    margin-right:
+    content:
+    font-size:
+    line-height:
+    letter-spacing:
+    text-align:
+    font-family:
+Java Script and Bootstrap
+    For my Java script I entered code that made the next page button green wehen you clicked on it, and also when you click on country the background of the country, the time cloumns chnage color to red for the three different tables , and the name of the race for the marathon changes color to red as well
+    For bootstrap I implemented the button class with the anchor tag, allowing for my website to use the button from boot starp as a visual for a user to be able to go to the other html pages
